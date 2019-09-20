@@ -1,0 +1,13 @@
+#page {
+  width: 1280px;
+}
+.post {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  
+  float: left;
+  clear: right;
+  
+  margin: 4px 4px;
+}
